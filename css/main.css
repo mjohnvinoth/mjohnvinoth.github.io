@@ -187,11 +187,11 @@ body{
     text-decoration: none;
 }
 
-.contactLinks a{
+.contactLinks a {
     color: #fff;
     font-size: 25px;
 }
-.contactLinks a:hover{
+.contactLinks a:hover {
     color: #60a3bc;
     font-size: 30px;
     background-color: #fff;
