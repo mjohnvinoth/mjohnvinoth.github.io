@@ -186,6 +186,16 @@ body{
     background-color: #fff;
     text-decoration: none;
 }
+
+.contactLinks a{
+    color: #fff;
+    font-size: 25px;
+}
+.contactLinks a:hover{
+    color: #60a3bc;
+    font-size: 30px;
+    background-color: #fff;
+}
 .filter a {
     color: #bdc3c7;
     border: 1px solid #bdc3c7;
